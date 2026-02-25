@@ -40,7 +40,3 @@ This project demonstrates a **3-phase, intelligence-driven security assessment**
 2.  **Executive Risk Brief:** High-level summary for business stakeholders.
 3.  **Risk Heatmap:** Visual representation of likelihood vs. impact.
 4.  **Attack Surface Timeline:** Historical analysis of digital exposure.
-
----
-
-> **Note:** This project was developed as part of a Senior Security Architecture simulation, focusing on the defense and resilience of enterprise cloud environments.
